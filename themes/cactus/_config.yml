@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  projects: https://github.com/TomColdenhoff
 
 
 # Links to your social media accounts.
@@ -93,7 +93,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/logo.png
+  url: /images/tom-cropped.png
   gravatar: false
   grayout: true
 

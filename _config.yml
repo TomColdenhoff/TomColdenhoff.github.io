@@ -5,8 +5,8 @@
 # Site
 title: Tom Coldenhoff
 subtitle: ''
-description: ''
-keywords:
+description: 'A blog where I write about my takes on subjects as tech, life, and work'
+keywords: ["blog", "tech", "startup"]
 author: Tom Coldenhoff
 language: en
 timezone: ''
