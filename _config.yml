@@ -5,7 +5,7 @@
 # Site
 title: Tom Coldenhoff
 subtitle: ''
-description: 'A blog where I write about my takes on subjects as tech, life, and work'
+description: 'Welcome to my blog, where I share my insights and perspectives on technology, life, and work.'
 keywords: ["blog", "tech", "startup"]
 author: Tom Coldenhoff
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://tomcoldenhoff.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
